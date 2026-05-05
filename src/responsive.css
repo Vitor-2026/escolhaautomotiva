@@ -1,0 +1,41 @@
+@media (max-width:624px){
+    @media (max-width:624px){
+    body {
+        flex-direction: column;
+        height:1500px;
+        justify-content: center;
+        gap: 400px;
+        margin-bottom: 80px;
+       
+    }
+    .select-cars {
+        width: 100%;
+        height: 400px;
+
+}
+    .selection-card {
+        width: 90%;
+        
+}
+}
+
+}
+@media (min-width:625px) and (max-width: 1200px){
+    body {
+        flex-direction: column;
+        height:1500px;
+        justify-content: center;
+        gap: 400px;
+        margin-bottom: 80px;
+       
+    }
+    .select-cars {
+        width: 100%;
+        height: 400px;
+
+}
+    .selection-card {
+        width: 90%;
+        
+}
+}
